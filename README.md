@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/woody-rn)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 I am a **Java developer** who successfully completed the intensive course **[Javarush University](https://javarush.com)** (2024-2025)
 
 - Solved 1200+ practical problems
-- Experienced in developing scalable and reliable web applications with a strong foundation in **Java**, **Git**, **Maven**, **Lombok** and **MapStruct**
+- Experienced in developing web applications with a strong foundation in **Java**, **Git**, **Maven**, **Lombok** and **MapStruct**
 - Proficient in the **Spring** ecosystem( including **Boot**, **Web**, **Data JPA**, **Security**)
 - Hands-on experience with **PostgreSQL**, **MySql**, **Liquibase**, and **Swagger/OpenAPI**
 - Skilled in writing unit and integration tests using **Mockito**, **JUnit 5**, **Spring Test**, **TestContainers** 
