@@ -53,4 +53,4 @@ I am a **Java developer** who successfully completed the intensive course **[Jav
 <br>
 [![codewars](https://www.codewars.com/users/Woody-rn/badges/large)](https://www.codewars.com/users/Woody-rn)
 <br>
-![LeetCode Profile](https://leetcard.jacoblin.cool/woody-rn?theme=light)<p>![](https://komarev.com/ghpvc/?username=woody-rn&color=green)</p>
+[![LeetCode Profile](https://leetcard.jacoblin.cool/woody-rn?theme=light)](https://leetcode.com/u/Woody-rn)<p>![](https://komarev.com/ghpvc/?username=woody-rn&color=green)</p>
