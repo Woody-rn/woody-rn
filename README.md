@@ -49,4 +49,8 @@ I am a **Java developer** who successfully completed the intensive course **[Jav
  
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woody-rn&layout=compact)](https://github.com/woody-rn/github-readme-stats)<p>![](https://komarev.com/ghpvc/?username=woody-rn&color=green)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woody-rn&layout=compact)](https://github.com/woody-rn/github-readme-stats)
+<br>
+[![codewars](https://www.codewars.com/users/Woody-rn/badges/large)](https://www.codewars.com/users/Woody-rn)
+<br>
+![LeetCode Profile](https://leetcard.jacoblin.cool/woody-rn?theme=light)<p>![](https://komarev.com/ghpvc/?username=woody-rn&color=green)</p>
