@@ -48,6 +48,3 @@ I am a **Java developer** who successfully completed the intensive course **[Jav
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA"/>
  
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woody-rn&layout=compact)](https://github.com/woody-rn/github-readme-stats)
-<br>
