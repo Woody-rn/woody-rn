@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a **Java developer** who successfully completed the intensive course **[Javarush University](https://certificate.javarush.com/ruslan_nikitin.pdf)** (2024-2025)
+I'm studying **Java developer** who completed the intensive course **[Javarush University](https://certificate.javarush.com/ruslan_nikitin.pdf)** (2024-2025)
 
 - Solved 1200+ practical problems
 - Experienced in developing web applications with a strong foundation in **Java**, **Git**, **Maven**, **Lombok** and **MapStruct**
