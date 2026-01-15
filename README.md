@@ -7,7 +7,7 @@ I'm studying **Java developer** who completed the intensive course **[Javarush U
 *   **[PetClinic REST API](ссылка на репозиторий)** – Full-stack веб-приложение для учета пациентов ветеринарной клиники. Реализовано: REST API (Spring Web), JWT-аутентификация (Spring Security), работа с БД (Spring Data JPA + PostgreSQL), миграции (Liquibase), полное тестовое покрытие (JUnit+TestContainers), контейнеризация (Docker), документация (Swagger UI).
 *   **[Task Management Service](ссылка на репозиторий)** – Сервис управления задачами с ролевой моделью пользователей. Использованы: MapStruct для маппинга, Lombok, спецификации для фильтрации.
 -->
-## 🛠 Technical Stack
+### 🛠 Technical Stack
 *   **Backend** - Java, Spring (Boot, Web, Data JPA, Security), Hibernate, Swagger/OpenAPI
 *   **Databases & Migration** - PostgreSQL, MySQL, Liquibase
 *   **Testing** - JUnit 5, Mockito, Spring Test, TestContainers
