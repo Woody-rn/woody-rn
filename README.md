@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm studying **Java developer** who completed the intensive course **[Javarush University](https://certificate.javarush.com/ruslan_nikitin.pdf)** (2024-2025)
+I'm **Java developer**. Graduate of the intensive **[Javarush University program](https://certificate.javarush.com/ruslan_nikitin.pdf)** (2024-2025)
 <!--
 ## 📁 Портфолио / Ключевые проекты
 > *Здесь дайте краткое описание 1-2 ваших лучших учебных проектов. Например:*
