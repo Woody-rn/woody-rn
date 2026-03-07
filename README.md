@@ -11,4 +11,5 @@ I'm **Java developer**. Graduate of the intensive **[Javarush University program
 *   **Backend** - Java, Spring (Boot, Web, Data JPA, Security), Hibernate, Swagger/OpenAPI
 *   **Databases & Migration** - PostgreSQL, MySQL, Liquibase
 *   **Testing** - JUnit 5, Mockito, Spring Test, TestContainers
-*   **DevOps & Tools** - Docker, Docker Compose, Git, Maven, Gradle, IntelliJ IDEA, Postman
+*   **DevOps & Tools** - Docker, Docker Compose, Maven, Gradle, IntelliJ IDEA, Postman
+*   **CI/CD & Version Control** - Git, GitHub, GitHub Actions (CI/CD pipelines)
